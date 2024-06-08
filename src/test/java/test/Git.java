@@ -6,6 +6,7 @@ public class Git {
 		// TODO Auto-generated method stub
 
 		System.out.println("Learning Git");
+		System.out.println("I have pulled and changed");
 	}
 
 }
