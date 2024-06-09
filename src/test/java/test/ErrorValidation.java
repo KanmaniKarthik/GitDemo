@@ -30,4 +30,5 @@ public class ErrorValidation extends Base
 				"\\src\\test\\java\\abstractComponents\\data.json");
 		return new Object[][] {{data.get(1)}};
 	}
+	
 }

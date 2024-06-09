@@ -9,4 +9,8 @@ public class Git {
 		System.out.println("I have pulled and changed");
 	}
 
+	public static void main(String[] args)
+	{
+		System.out.println("working on sub branch");
+		}
 }
